@@ -1,0 +1,22 @@
+{
+  "name": "social-links-profile",
+  "version": "1.0.0",
+  "description": "Sitio Web Con HTML Y TailwindCss",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx tailwindcss -i ./src/tailwind.css -o ./src/dist/app.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jeyker-Dev/Social-Links-Profile.git"
+  },
+  "author": "Jeyker-Dev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jeyker-Dev/Social-Links-Profile/issues"
+  },
+  "homepage": "https://github.com/Jeyker-Dev/Social-Links-Profile#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.4.4"
+  }
+}
